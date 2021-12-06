@@ -1,2 +1,11 @@
 # General
 .DS_Store
+
+# Credentials
+.env
+
+# utils
+**/util/*
+
+# Large Dataset
+**/bigdata/*
